@@ -1,3 +1,2 @@
-## Under construction
-### freeCodeCamp project
-Portfolio page
+# freeCodeCamp project
+My portfolio page.
